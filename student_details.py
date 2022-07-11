@@ -46,7 +46,7 @@ Make sure you fill in the right details.
 
 def my_details():
   """Return a dictionary with your details in the format as specified in the above instructions"""
-  pass
+  
 
 
 # now call your function
